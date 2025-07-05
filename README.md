@@ -35,10 +35,11 @@ TotalFields: 16 columns
 
 #### 2. Tools Used:
 
-- Excel
-- pivot Tables and Charts
+- Excel (for Data Collection,For Data Cleaning, Data Manipulation and Data Munching)
+- Power Query (For Data Wrangling)
+- Pivot Tables and Charts (For Visualization)
 
-#### 3. Analysis (Processes Involved):
+#### 3. Data Cleaning (Processes Involved):
 
 - Load Data
 
@@ -57,8 +58,8 @@ TotalFields: 16 columns
 #### 4. Generating pivot Tables
 - About 14 pivot tables were generaated
 
-#### 5. Pivot Charts/Slicers:
-
+#### 5. Analysis:
+##### Pivot Charts/Slicers:
 - Used these to share my findings and tell my data story
 
 
