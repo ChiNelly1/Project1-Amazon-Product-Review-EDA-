@@ -76,12 +76,14 @@ TotalFields: 16 columns
 #### 5. Result: pivot Tables
 - About 14 pivot tables were generaated
 
-#### 6. Recommendation:
-##### Pivot Charts/Slicers:
+#### 6. Pivot Charts/Slicers:
 - Used these to share my findings and tell my data story
 
+![Amazon Analysis](https://github.com/user-attachments/assets/b90091c2-c3a9-4941-978b-53d0980ef3ec)
 
 
+
+#### 7. Recommendation
  
 
 
